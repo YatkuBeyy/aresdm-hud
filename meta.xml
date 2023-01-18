@@ -1,4 +1,4 @@
 <meta>
 	<info author="YatkuBey" type="script" name="aresDM_hud" />
-	<script src="c_aresDM_hud.lua" type="client" cache="false" />
+	<script src="client.lua" type="client" cache="false" />
 </meta>
